@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments & caches
+.venv/
+.cache/
+*.log
+.DS_Store
+
+# Secrets
+.streamlit/secrets.toml
+config.json
